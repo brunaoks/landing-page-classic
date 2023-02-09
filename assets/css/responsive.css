@@ -1,0 +1,105 @@
+@media (max-width: 1166px) {
+  .primary-text {
+    width: 60rem;
+    font-size: 3rem;
+  }
+
+  .secondary-text {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 1056px) {
+  .primary-text {
+    font-size: 2rem;
+  }
+
+  .secondary-text {
+    font-size: 1.3rem;
+  }
+}
+
+@media (max-width: 948px) {
+  .header {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .text-logo {
+    font-size: 1.5rem;
+  }
+
+  #logo {
+    display: none;
+  }
+
+  .navbar a {
+    font-size: 1rem;
+  }
+
+  .barbers-container {
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+  }
+}
+
+@media (max-width: 868px) {
+  .primary-text {
+    width: 70%;
+  }
+}
+
+@media (max-width: 610px) {
+  .secondary-text {
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .secondary-text {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 425px) {
+  .primary-text {
+    width: 80%;
+    font-size: 1.5rem;
+  }
+
+  .img-prices {
+    width: 300px;
+    height: auto;
+  }
+
+  .footer-text {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 369px) {
+  .navbar a {
+    font-size: 0.8rem;
+  }
+
+  .secondary-text {
+    width: 75%;
+    font-size: 0.699rem;
+    text-align: center;
+  }
+
+  .footer-text {
+    font-size: 0.7rem;
+  }
+
+  img {
+    width: 60%;
+    height: auto;
+  }
+
+  .img-prices {
+    width: 250px;
+  }
+}
