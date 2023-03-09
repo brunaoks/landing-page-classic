@@ -1,8 +1,8 @@
 # Landing page para barbearia
 
-![GitHub repo size](https://img.shields.io/github/repo-size/brunaoks/portfolio-salomao?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/brunaoks/portfolio-salomao?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/brunaoks/portfolio-salomao?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/brunaoks/landing-page-classic?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/brunaoks/landing-page-classic?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/brunaoks/landing-page-classic?style=for-the-badge)
 
 ## 🔆 Desktop
 
@@ -33,7 +33,7 @@ landing-page-classic/" target="_blank">Clique aqui.</a>
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [] Responsividade. <br>
+- [ ] Responsividade. <br>
 
 ## 💻 Pré-requisitos
 
