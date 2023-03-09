@@ -151,6 +151,11 @@ header.shadow {
   padding-top: 3rem;
 }
 
+.img-perfil {
+  width: 15rem;
+  height: auto;
+}
+
 .title-barbers {
   font-size: var(--big-font);
   margin: 2rem;
