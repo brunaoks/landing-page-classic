@@ -4,26 +4,21 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/brunaoks/landing-page-classic?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/brunaoks/landing-page-classic?style=for-the-badge)
 
-## 🔆 Desktop
+## 💻 Desktop
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/102770109/207200776-0273aaba-c389-4deb-8dc4-194c93bdcdf3.jpg" width="450px" />
-<img src="https://user-images.githubusercontent.com/102770109/207200778-f431e005-7353-41ba-9604-a268ce8c1af1.jpg" width="450px" />
-<img src="https://user-images.githubusercontent.com/102770109/207200785-0ee67caf-6a5b-4ae9-8129-45a87c683c48.jpg" width="450px" />
-<img src="https://user-images.githubusercontent.com/102770109/207200786-096bb483-8065-45cc-8588-2a9b62ba1145.jpg" width="450px" />
-<img src="https://user-images.githubusercontent.com/102770109/207200789-e035ba63-9bbc-4270-b102-dc3d7c937207.jpg" width="450px" />
-<img src="https://user-images.githubusercontent.com/102770109/207200790-91b0949d-6cb6-436f-84c8-a6b73fed16cb.jpg" width="450px" />
+<img src="https://user-images.githubusercontent.com/102770109/224108106-f82d1a99-c8e2-4fac-b6ae-fee0b7709577.png" width="450px" />
+<img src="https://user-images.githubusercontent.com/102770109/224108212-afa0246f-dff0-419c-9636-967a74da0467.png" width="450px" />
+<img src="https://user-images.githubusercontent.com/102770109/224108334-e4b81971-8495-4777-9651-ecee063260e6.png" width="450px" />
 </div>
 
-## 🌙 Mobile
+## 📱 Mobile
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/102770109/207201055-eadd6cc7-0f6d-4a1b-ab06-3b16f8a3ffb6.jpg" width="450px" />
-<img src="https://user-images.githubusercontent.com/102770109/207201058-8fbf8696-8273-423e-98c8-c3a1535085c9.jpg" width="450px" />
-<img src="https://user-images.githubusercontent.com/102770109/207201060-def8789f-d429-4b01-b9c6-14f3cd19c8fd.jpg" width="450px" />
-<img src="https://user-images.githubusercontent.com/102770109/207201062-3cc9340c-e4a1-4cc4-9c1e-d2b771eb6db3.jpg" width="450px" />
-<img src="https://user-images.githubusercontent.com/102770109/207201065-c67500b8-c420-4d67-bd4b-8efc87e3167f.jpg" width="450px" />
-<img src="https://user-images.githubusercontent.com/102770109/207201068-572a5c93-1ce9-442c-ba75-4d3e437f6bbd.jpg" width="450px" />
+<img src="https://user-images.githubusercontent.com/102770109/224108605-df8a5d30-351b-4dbc-8dfd-8b14380c0d3b.png" width="450px" />
+<img src="https://user-images.githubusercontent.com/102770109/224108729-ccc5fc58-d7a2-4524-9647-e77b2ee5781c.png" width="450px" />
+<img src="https://user-images.githubusercontent.com/102770109/224108810-0118d6a9-3c20-4171-b8a9-1aea9a68c37f.png" width="450px" />
+<img src="https://user-images.githubusercontent.com/102770109/224108929-f1bfd940-d8b9-4452-aeda-4520e0c8e654.png" width="450px" />
 </div>
 
 > Uma landing page feita para barbearias, desenvolvida com HTML5 e CSS3. Para acessar o projeto <a href="https://brunaoks.github.io/
